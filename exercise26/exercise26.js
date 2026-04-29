@@ -10,7 +10,7 @@
 // console.log(user,people)
 // })
 
-// blocking
+blocking
 
 function fetchMassageSync(){
     alert("waa so daahday")
@@ -35,4 +35,3 @@ function fetchMassage(callback){
 fetchMassage(function(massage){
 console.log(massage);})
 console.log("soo gal");
-
