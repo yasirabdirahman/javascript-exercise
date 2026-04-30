@@ -1,0 +1,10 @@
+{
+    "id":1,
+    "name":"ciise",
+    "city":"borama",
+    "orders":[
+    {"id":1, "product": "ipad", "quantity":10},
+    {"id":2, "product": "laptop", "quantity":15},
+    {"id":3, "product": "mobile", "quantity":18}
+]
+}
